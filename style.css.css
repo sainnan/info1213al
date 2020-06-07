@@ -1,0 +1,42 @@
+body{
+	background: url(https://image.freepik.com/free-vector/abstract-background-with-yellow-watercolor-texture_1048-2243.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+h2{
+	font-size: 24px;
+}
+P{
+	font-size: 20px;
+}
+Li{
+	font-size: 18px;
+}
+span{
+	font-size: 10px;
+}
+# special{
+	background: purple
+}
+
+
+h2{
+   text-align: center;	
+}
+table th{
+	text-align: left;
+	color: purple;
+	padding: 4px,30px,4px,8px
+
+
+}
+
+table td {
+	border: 1px solid black;
+	
+	font-size: 24px;
+}
+table {
+	border-collapse: collapse;
+
+}
